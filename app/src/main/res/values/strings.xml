@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello Prim</string>
+    <string name="nickname">พริ้ม</string>
+    <string name="name">กมลชนก ตันเติมเกียรติ</string>
 </resources>
